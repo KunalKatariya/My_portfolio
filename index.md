@@ -35,7 +35,7 @@ page_sections:
   media_alignment: Left
   headline: <strong>Chills, <span class="light"> </span></strong><span class="light">literal
     chills</span>
-  content: Watch aand fell in love with my work.
+  content: Watch and fell in love with my work.
   media:
     image: "/uploads/2018/06/21/blocks-split.png"
     alt_text: uBuild Blocks Mock-Up
