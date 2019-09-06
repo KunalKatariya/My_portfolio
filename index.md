@@ -12,6 +12,8 @@ page_sections:
   - link: "#"
     link_text: Work
   - link: "#"
+    link_text: Contact
+  - link: "#"
     link_text: About Me
   cta:
     url: ''
